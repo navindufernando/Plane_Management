@@ -38,7 +38,7 @@ public class Plane_Management {
                     userInput.nextLine();
                     break;
                 } else {
-                    System.out.println("Invalid input. Please enter a valid number.");
+                    System.out.println("Invalid input. Please enter a valid number to continue.");  
                     userInput.nextLine();
                 }
             } while (true);
