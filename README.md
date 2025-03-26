@@ -38,11 +38,6 @@ The plane has 4 rows (A-D):
 javac w2053138_PlaneManagement.java Person.java Ticket.java
 ```
 
-2. Run the application:
-```bash
-java w2053138_PlaneManagement
-```
-
 ## Menu Options
 
 1. **Buy a Seat**
